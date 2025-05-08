@@ -1,6 +1,5 @@
 # Ex04 Places Around Me
-## Reg.no.:212224040177
-## Date:  25.04.2025
+## Reg.no.:212224240029
 
 ## AIM
 To develop a website to display details about the places around my house.
